@@ -1,0 +1,44 @@
+{
+  "name": "gptchess",
+  "description": "GPTChess is an npm package that provides a chess AI powered by the OpenAI GPT-3 model. It allows you to generate AI moves based on the current chessboard state.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chess AI",
+    "OpenAI",
+    "GPT-3",
+    "Chessboard",
+    "Move generation",
+    "Artificial intelligence",
+    "Game development",
+    "NPM package",
+    "CLI application",
+    "Command-line interface",
+    "Chess engine",
+    "Game logic",
+    "Board state",
+    "Move suggestion",
+    "API wrapper",
+    "Chess programming"
+  ],
+  "author": {
+    "name": "Sahand Sami",
+    "nickname": "Alex",
+    "telegram": "@Alex0724x1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-724/gptchess.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alex-724/gptchess/issues"
+  },
+  "homepage": "https://github.com/Alex-724/gptchess#readme"
+}
